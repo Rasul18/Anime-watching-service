@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Home",
+        "id": "1",
+        "href": "/"
+    },
+    {
+        "title": "Anime",
+        "id": "2",
+        "href": "/findAnime"
+    },
+    {
+        "title": "Tittle",
+        "id": "3",
+        "href": "/tittle"
+    }
+]

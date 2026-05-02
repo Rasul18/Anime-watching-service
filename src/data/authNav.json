@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Register",
+        "id": "1",
+        "href": "/register"
+    },
+    {
+        "title": "Login",
+        "id": "1",
+        "href": "/login"
+    }
+]
